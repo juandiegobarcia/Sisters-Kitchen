@@ -1,0 +1,6 @@
+{
+  "name": "SISTERS' KITCHEN – Comfort food que abraza el alma",
+  "description": "Restaurante de desayuno, brunch, almuerzo y postres en González Suárez, Quito. Comfort food libre de aceites vegetales, opciones sin gluten y pet friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
